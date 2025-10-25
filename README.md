@@ -9,7 +9,6 @@ This project sets up a voice AI assistant that:
 * Processes responses using an LLM (Large Language Model).
 * Uses TTS (Text-to-Speech) for voice replies.
 * Detects voice activity and turns using silero VAD.
-* Utilizes LiveKit Inference, a unified, low-latency model gateway that provides access to multiple model providers   with just a single LiveKit API key.
 
 ---
 
