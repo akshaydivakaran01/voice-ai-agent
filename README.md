@@ -1,4 +1,4 @@
-# LiveKit Voice AI Agent
+# 🤖 LiveKit Voice AI Agent
 
 A simple Voice AI Agent built using **LiveKit Agents SDK**, demonstrating the Speech-to-Text (STT) → Large Language Model (LLM) → Text-to-Speech (TTS) pipeline for real-time voice interactions. This project leverages **LiveKit Inference**, a unified, low-latency model gateway that provides access to multiple model providers with just a single LiveKit API key.
 
@@ -119,7 +119,7 @@ Once running, your Voice AI Agent will connect to the LiveKit server, ready to h
 
 ---
 
-## Troubleshooting
+## ⚠️ Troubleshooting
 
 **1. Agent not connecting:**
 Check `LIVEKIT_URL`, `LIVEKIT_API_KEY`, and `LIVEKIT_API_SECRET` in `.env.local`.
